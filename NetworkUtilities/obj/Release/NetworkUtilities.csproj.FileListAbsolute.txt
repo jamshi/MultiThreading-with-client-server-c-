@@ -1,0 +1,5 @@
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\NetworkUtilities\bin\Release\NetworkUtilities.dll
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\NetworkUtilities\bin\Release\NetworkUtilities.pdb
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\NetworkUtilities\obj\Release\NetworkUtilities.dll
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\NetworkUtilities\obj\Release\NetworkUtilities.pdb
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\NetworkUtilities\obj\Release\NetworkUtilities.csprojResolveAssemblyReference.cache

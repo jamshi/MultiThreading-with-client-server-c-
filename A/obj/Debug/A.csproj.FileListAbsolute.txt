@@ -1,0 +1,24 @@
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\bin\Debug\A.exe
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\bin\Debug\NetworkUtilities.dll
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\bin\Debug\NetworkUtilities.pdb
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\obj\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\obj\Debug\A.exe.manifest
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\obj\Debug\A.application
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\obj\Debug\A.exe
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\obj\Debug\A.pdb
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\bin\Debug\A.exe.config
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\bin\Debug\A.exe.manifest
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\bin\Debug\A.application
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\1ScreenEvaluation\A\bin\Debug\A.pdb
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\bin\Debug\A.exe.config
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\bin\Debug\A.exe.manifest
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\bin\Debug\A.application
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\bin\Debug\A.exe
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\bin\Debug\A.pdb
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\bin\Debug\NetworkUtilities.dll
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\bin\Debug\NetworkUtilities.pdb
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\obj\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\obj\Debug\A.exe.manifest
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\obj\Debug\A.application
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\obj\Debug\A.exe
+C:\Users\Jamsheed\Documents\Visual Studio 2015\Projects\FirstScreenTestTask Solution(Jamsheed BP)\Solution\A\obj\Debug\A.pdb
